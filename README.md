@@ -28,9 +28,9 @@
 Luisa is 18 years old and has a drivers liscense: true
 When going to REWE in the category F you can buy an apple for 1.99
 
-- [ ]: Write 3 lines of code to:
+- [ ] Write 3 lines of code to:
    1. save a variable int x as a number 
    2. save a variable int y as a number
    3. print out the sum of the two numbers 
 
-- [ ]: Do the same for difference, multiplication and division
+- [ ] Do the same for difference, multiplication and division
