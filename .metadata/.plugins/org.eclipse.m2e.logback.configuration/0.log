@@ -1,3 +1,4 @@
 2018-07-15 19:18:54,282 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
 2018-07-15 19:32:45,546 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2018-07-15 19:33:58,599 [Worker-10: Auto share git projects] WARN  org.eclipse.jgit.util.FS - null
+2018-08-18 18:24:17,995 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

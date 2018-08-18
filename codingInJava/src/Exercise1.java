@@ -1,7 +1,7 @@
 public class Exercise1 {
 	public static void main(String[] args) {
 		
-		// The lines 5 - 10 are wrong. You need to correct the errors to get the output:
+		// The lines 8 - 13 are wrong. You need to correct the errors to get the output:
 		// Luisa is 18 years old and has a drivers liscense: true
 		// When going to REWE in the category F you can buy an apple for 1.99
 		
